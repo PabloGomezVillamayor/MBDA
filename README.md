@@ -3,7 +3,7 @@
 ¡Hola!
 Soy **Pablo Gómez Villamayor**, graduado en **Matemáticas** y en **Física** por la **Universidad de Valladolid**.
 
-Actualmente, durante el curso **2025–2026**, soy estudiante del **Máster en Análisis de Datos aplicado al Baloncesto**.
+Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Análisis de Datos aplicado al Baloncesto**.
 
 ---
 
@@ -40,4 +40,4 @@ Sin más aclaraciones, te invito a que te des una vuelta por el repositorio.
 ¡Gracias por tu atención!  
 Un abrazo <3
 
-**Pablo Gómez**
+**Pablo Gómez**.
