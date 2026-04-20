@@ -1,9 +1,9 @@
 # MBDA: Máster en Basket Data Analytics & Sports Management (2025–2026)
 
 ¡Hola!
-Soy **Pablo Gómez Villamayor**, graduado en **Matemáticas** y en **Física** por la **Universidad de Valladolid**.
+Soy **Pablo Gómez Villamayor**, graduado en **Matemáticas** y en **Física** por la **Universidad de Valladolid (UVa)**.
 
-Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Análisis de Datos aplicado al Baloncesto**.
+Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Análisis de Datos aplicado al Baloncesto**, en la **Universidad del Atlántico Medio (UNAM)**.
 
 ---
 
@@ -40,7 +40,7 @@ Cuando finalice el curso académico, se actualizarán convenientemente.
 
 ##  Contacto
 
-Si lo necesitas, puedes contactar conmigo via
+Si lo necesitas, puedes contactar conmigo a través de:
 
 •Mail: pablogv.data.analysis@gmail.com
 
