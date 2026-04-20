@@ -19,11 +19,22 @@ Esta titulación se fundamenta en el acuerdo académico entre:
 
 ##  Sobre este repositorio
 
-Voy a utilizar este repositorio de **GitHub** como almacén para mis trabajos del máster.  
-Aquí iré subiendo los documentos y archivos correspondientes a las **entregas finales** de algunas de las asignaturas, con el objetivo de que tanto los profesores como cualquier persona interesada puedan acceder fácilmente a este contenido.
+Voy a utilizar este repositorio de **GitHub** como almacén para mis trabajos del máster.
 
-El repositorio se organiza en diversas carpetas, una por cada asignatura.  
-Dichas carpetas están numeradas según el orden cronológico de impartición dentro del máster.
+Aquí iré subiendo los documentos y archivos correspondientes a algunos de los **Trabajos de Final de Asignatura (TFA)** realizados, con el objetivo de que tanto los profesores como cualquier persona interesada puedan acceder fácilmente a este contenido.
+
+El repositorio se organiza en diversas carpetas. Existen cuatro directorios principales, uno por cada bloque principal del máster:
+
+1. BLOQUE COMÚN
+2. BLOQUE MACHINE LEARNING
+3. TFM
+4. PRÁCTICAS
+
+Las asignaturas impartidas en el máster se engloban en los dos primeros bloques. Dentro de estos, existe una carpeta por cada asignatura. 
+Dichas carpetas están numeradas según el orden cronológico de impartición dentro del máster. 
+
+Los bloques tercero y cuarto aún están por completar. Estos corresponden al **Trabajo Final de Máster (TFM)** y a las prácticas, respectivamente.
+Cuando finalice el curso académico, se actualizarán convenientemente.
 
 ---
 
@@ -33,11 +44,13 @@ Si lo necesitas, puedes contactar conmigo via
 
 •Mail: pablogv.data.analysis@gmail.com
 
+•LinkedIn: https://www.linkedin.com/in/pablo-gomez-villamayor/
+
 ---
 
 Sin más aclaraciones, te invito a que te des una vuelta por el repositorio.
 
 ¡Gracias por tu atención!  
-Un abrazo <3
+Un abrazo <3.
 
 **Pablo Gómez**.
