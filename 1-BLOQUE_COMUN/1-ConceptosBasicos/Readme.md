@@ -17,6 +17,6 @@
 
 ### Contenidos incluidos en la entrega:
 
-• Análisis (Excel)
+• Análisis en Excel (.xlsx)
 
-• Informe/Resumen (PDF generado con \LaTeX)
+• Documento de texto: Informe/Resumen (.pdf generado con \LaTeX)
