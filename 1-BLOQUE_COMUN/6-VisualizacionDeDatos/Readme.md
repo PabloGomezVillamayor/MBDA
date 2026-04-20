@@ -20,9 +20,9 @@ adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de tod
 
 ### Contenidos incluidos en la entrega:
 
-• Análisis en Power BI (.pbix)
+• Análisis en Power BI (.pbix).
 
-• Imágenes con las visualizaciónes (.jpg)
+• Imágenes con las visualizaciónes (.jpg).
 
 
 ### Comentarios adicionales:
