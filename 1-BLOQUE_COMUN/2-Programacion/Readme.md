@@ -15,4 +15,4 @@ de estadística avanzada, tanto a nivel individual como de equipo.
 
 ### Contenidos incluidos en la entrega:
 
-• Notebook con la calculadora (.ipynb)
+• Notebook con la calculadora (.ipynb).
