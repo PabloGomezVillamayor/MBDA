@@ -8,4 +8,4 @@
 
 ### Contenidos incluidos en la entrega:
 
-• Documento de texto (.pdf generado con \LaTeX)
+• Documento de texto (.pdf generado con \LaTeX).
