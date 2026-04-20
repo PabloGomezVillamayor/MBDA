@@ -2,7 +2,7 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura: 1. Conceptos Básicos
+### Asignatura: "1. Conceptos Básicos"
 
 ### TFA: Análisis de un cuarto de un partido de Liga Endesa (Baxi Manresa - Hiopos Lleida. Jornada 7. Temporada 2025-2026)
 
