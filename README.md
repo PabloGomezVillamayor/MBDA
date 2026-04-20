@@ -25,8 +25,8 @@ Aquí iré subiendo los documentos y archivos correspondientes a algunos de los 
 
 El repositorio se organiza en diversas carpetas. Existen cuatro directorios principales, uno por cada bloque principal del máster:
 
-1. BLOQUE COMÚN
-2. BLOQUE MACHINE LEARNING
+1. BLOQUE_COMÚN
+2. BLOQUE_MACHINE_LEARNING
 3. TFM
 4. PRÁCTICAS
 
