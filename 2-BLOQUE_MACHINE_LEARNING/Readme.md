@@ -4,8 +4,8 @@
 
 ### Asignaturas impartidas:
 
-1. Machine Learning I
-2. Machine Learning II
+1. Machine Learning I.
+2. Machine Learning II-
 
 ### Herramientas Principales: Librerías de Python:
 
