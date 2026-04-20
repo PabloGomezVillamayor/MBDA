@@ -12,7 +12,7 @@
 
 • Nueva arquitectura: Estructura jerárquica. Clases 'Player', 'PlayerGameStats', 'TeamGameStats', 'MyTeamGame', 'OpponentTeamGame', 'Game' y 'Season'.
 
-• Ejecución final: Estructura jerárquica. Clases 'Calculator'
+• Ejecución final: Estructura jerárquica. Clase 'Calculator'
 
 ### Contenidos incluidos en la entrega:
 
