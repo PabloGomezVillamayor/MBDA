@@ -4,18 +4,18 @@
 
 ### Asignaturas impartidas:
 
-1. Conceptos Básicos
-2. Programación
-3. Matemáticas
-4. Bases de Datos (BBDD)
-5. Programación Avanzada
-6. Visualización de Datos
+1. Conceptos Básicos.
+2. Programación.
+3. Matemáticas.
+4. Bases de Datos.
+5. Programación Avanzada.
+6. Visualización de Datos.
 
 
 ### Herramientas Principales:
 
 • Python: Pandas, NumPy.
 
-• SQL
+• SQL.
 
-• Power BI
+• Power BI.
