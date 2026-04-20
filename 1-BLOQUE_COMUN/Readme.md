@@ -15,5 +15,7 @@
 ### Herramientas Principales:
 
 • Python: Pandas, NumPy.
+
 • SQL
+
 • Power BI
