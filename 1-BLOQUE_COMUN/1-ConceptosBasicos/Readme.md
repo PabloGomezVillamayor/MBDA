@@ -6,13 +6,13 @@
 
 ### TFA: Análisis de un cuarto de un partido de Liga Endesa (Baxi Manresa - Hiopos Lleida. Jornada 7. Temporada 2025-2026)
 
-• Construcción de un **Play By Play** manual, construido a partir del video
+• Construcción de un **Play By Play** manual, construido a partir del video.
 
-• Reconstrucción de la estadística convencional del partido (**Boxscore**)
+• Reconstrucción de la estadística convencional del partido (**boxscore**).
 
-• Cálculo de métricas avanzadas
+• Cálculo de métricas avanzadas.
 
-• Creación de gráficos
+• Creación de gráficos.
 
 
 ### Contenidos incluidos en la entrega:
