@@ -9,12 +9,12 @@
 
 ### Herramientas Principales: Librerías de Python:
 
-• Scikit-learn
+• Scikit-learn.
 
-• Keras
+• Keras.
 
-• SHAP
+• SHAP.
 
-• TensorFlow
+• TensorFlow.
 
-• PyTorch (C
+• PyTorch.
