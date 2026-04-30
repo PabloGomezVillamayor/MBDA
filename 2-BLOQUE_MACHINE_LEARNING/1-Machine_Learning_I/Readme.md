@@ -4,6 +4,15 @@
 
 ### Asignatura: Machine Learning I
 
+---
+
+<p align="center">
+  <img src="images/MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
+</p>
+
+---
+
+
 ### TFA: Predicción y Análisis de Lesiones en NBA:
 
 ---
@@ -41,8 +50,4 @@ Todos están disponibles en este directorio del repositorio, en la subcarpeta "m
 • Python: Pandas · Scikit-learn · Keras.
 • LaTeX: TikZ (generación de imagenes). Las imágenes están disponibles en la subcarpeta "images".
 
----
 
-<p align="center">
-  <img src="images/MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="500"/>
-</p>
