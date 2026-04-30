@@ -30,7 +30,7 @@ Se construyeron 3 modelos en total: 2 árboles de decisión y 1 red neuronal.
 
 Todos están disponibles en este directorio del repositorio, en la subcarpeta "models".
 
-• Árbol de decisión → `.pkl`.
+• Árboles de decisión → `.pkl`.
 
 • Red neuronal → `.keras`.
 
