@@ -25,7 +25,7 @@
   - KMEANS.
   - Clustering jerárquico.
 
-### 🔹 Tarea 2: Predicción de lesiones -> • Predecir el riesgo de lesión en base al rendimiento y carga de juego.
+### 🔹 Tarea 2: Predicción de lesiones -> Predecir el riesgo de lesión en base al rendimiento y carga de juego.
 
 • Modelos utilizados:
   - Árboles de decisión (con sklearn) -> Mejora de desbalanceo de clases con SMOTE.
@@ -49,14 +49,6 @@ Todos están disponibles en este directorio del repositorio, en la subcarpeta "m
 
 • Python: Pandas · Scikit-learn · Keras.
 • LaTeX: TikZ (generación de imagenes). Las imágenes están disponibles en la subcarpeta "images".
-
-### Análisis completos:
-
-Además de los modelos y las imágenes, hemos incluido en este repositorio los notebooks que incluyen la resolución completa de ambas tareas.
-
-Estos archivos, tanto en formato `.ipynb` como `.html`, están disponibles en la subcarpeta "notebooks". 
-
-¡Animamos al lector de estas líneas a que les eche un vistazo!
 
 Gracias por visitar el repositorio.
 
