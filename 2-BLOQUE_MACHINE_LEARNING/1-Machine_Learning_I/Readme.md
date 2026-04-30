@@ -33,7 +33,7 @@
 
 ---
 
-### Modelos guardado:
+### Modelos guardados:
 
 Se construyeron 3 modelos en total: 2 árboles de decisión y 1 red neuronal.
 
@@ -49,5 +49,18 @@ Todos están disponibles en este directorio del repositorio, en la subcarpeta "m
 
 • Python: Pandas · Scikit-learn · Keras.
 • LaTeX: TikZ (generación de imagenes). Las imágenes están disponibles en la subcarpeta "images".
+
+### Análisis completos:
+
+Además de los modelos y las imágenes, hemos incluido en este repositorio los notebooks que incluyen la resolución completa de ambas tareas.
+
+Estos archivos, tanto en formato `.ipynb` como `.html`, están disponibles en la subcarpeta "notebooks". 
+
+¡Animamos al lector de estas líneas a que les eche un vistazo!
+
+Gracias por visitar el repositorio.
+
+Pablo.
+
 
 
