@@ -10,11 +10,11 @@
 
 ### Objetivo: Implementación de modelos de aprendizaje automático.
 
-### 🔹 Tarea 1: Clustering -> Agrupar lesiones similares
+### 🔹 Tarea 1: Clustering -> Agrupar lesiones similares.
 
 • Modelos utilizados:
-  - KMEANS 
-  - Clustering jerárquico
+  - KMEANS.
+  - Clustering jerárquico.
 
 ### 🔹 Tarea 2: Predicción de lesiones -> • Predecir el riesgo de lesión en base al rendimiento y carga de juego.
 
