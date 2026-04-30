@@ -4,7 +4,7 @@
 
 ### Asignatura: Machine Learning I
 
-### TFA: Predicción y Análisis de Lesiones en NBA
+### TFA: Predicción y Análisis de Lesiones en NBA:
 
 ---
 
@@ -24,18 +24,18 @@
 
 ---
 
-### Modelos guardado
+### Modelos guardado:
 
 Se construyeron 3 modelos en total: 2 árboles de decisión y 1 red neuronal.
 
 Todos están disponibles en este directorio del repositorio, en la subcarpeta "models".
 
-• Árbol de decisión → `pickle`  
-• Red neuronal → `.keras`  
+• Árbol de decisión → `.pkl`.
+• Red neuronal → `.keras`.
 
 ---
 
-### Herramientas utilizadas
+### Herramientas utilizadas:
 
-• Python: Pandas · Scikit-learn · Keras
-• LaTeX: TikZ (generación de imagenes)  
+• Python: Pandas · Scikit-learn · Keras.
+• LaTeX: TikZ (generación de imagenes). Las imágenes están disponibles en la subcarpeta "images".
