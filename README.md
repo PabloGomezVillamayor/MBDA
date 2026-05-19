@@ -19,9 +19,9 @@ Esta titulación se fundamenta en el acuerdo académico entre:
 
 ##  Sobre este repositorio
 
-Voy a utilizar este repositorio de **GitHub** como almacén para mis trabajos del máster.
+Voy a utilizar este repositorio de **GitHub** como almacén de algunos archivos relacionados con mis trabajos del máster.
 
-Aquí iré subiendo los documentos y archivos correspondientes a algunos de los **Trabajos de Final de Asignatura (TFA)** realizados, con el objetivo de que tanto los profesores como cualquier persona interesada puedan acceder fácilmente a este contenido.
+Aquí iré subiendo algunos archivos e ilustraciones de elaboración propia, utilizados en los **Trabajos de Final de Asignatura (TFA)** realizados, con el objetivo de que tanto los profesores como cualquier persona interesada puedan acceder fácilmente a este contenido.
 
 El repositorio se organiza en diversas carpetas. Existen cuatro directorios principales, uno por cada bloque principal del máster:
 
