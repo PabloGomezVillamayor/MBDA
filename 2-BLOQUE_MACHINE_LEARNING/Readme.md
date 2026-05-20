@@ -10,11 +10,14 @@
 2. Machine Learning II.
 
 ---
-
+---
 
 <p align="center">
-  <img src="1-Machine_Learning_I/MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="2000"/>
+  <img src="1-Machine_Learning_I/MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="1000"/>
 </p>
+
+---
+---
 
 
 ## Herramientas Principales: Librerías de Python para aprendizaje automático
