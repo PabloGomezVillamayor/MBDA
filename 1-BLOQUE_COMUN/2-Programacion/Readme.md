@@ -20,7 +20,7 @@ Se incluyeron funciones variadas, para introducir dorsales de jugadores válidos
 ---
 
 <p align="center">
-  <img src="MBDA_TFA_Programacion_PGV-Ej_3_RankingGamesPlayed.jpg" width="400"/>
+  <img src="MBDA_TFA_Programacion_PGV-Ej_3_RankingGamesPlayed.jpg" width="250"/>
 </p>
 
 ---
