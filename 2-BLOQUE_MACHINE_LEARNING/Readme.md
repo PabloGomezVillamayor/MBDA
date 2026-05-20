@@ -11,7 +11,7 @@
 
 ---
 
-### Herramientas Principales: Librerías de Python para aprendizaje automático
+## Herramientas Principales: Librerías de Python para aprendizaje automático
 
 • Scikit-learn.
 
