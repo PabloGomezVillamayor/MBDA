@@ -1,13 +1,17 @@
 # MBDA: Máster en Basket Data Analytics & Sports Management (2025–2026)
 
-##  BLOQUE MACHINE LEARNING (Especialidad Análisis de Datos)
+##  BLOQUE MACHINE LEARNING - Especialidad Análisis de Datos
 
-### Asignaturas impartidas:
+---
+
+## Asignaturas impartidas:
 
 1. Machine Learning I.
 2. Machine Learning II-
 
-### Herramientas Principales: Librerías de Python:
+---
+
+### Herramientas Principales: Librerías de Python para aprendizaje automático
 
 • Scikit-learn.
 
