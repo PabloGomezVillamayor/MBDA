@@ -47,8 +47,13 @@
 
 • **LaTeX**: TikZ (paquete para generación de imagenes).
 
+---
+
 <p align="center">
   <img src="MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="2000"/>
+</p>
+
+<p align="center">
   <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
 </p>
 
