@@ -25,3 +25,11 @@
 ### Contenidos incluidos en el repositorio:
 
 • Representación gráfica de una función (generada con el paquete TikZ de \LaTeX).
+
+---
+
+<p align="center">
+  <img src="MBDA_TFA_Matematicas_PGV-1_FunctionGraph.jpg" width="600"/>
+</p>
+
+---
