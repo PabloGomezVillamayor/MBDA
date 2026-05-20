@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1-BLOQUE_COMUN/MBDA_PGV_GitHub_Header.jpg" width="400"/>
+  <img src="1-BLOQUE_COMUN/MBDA_PGV_GitHub_Header.jpg" width="4000"/>
 </p>
 
 # MBDA: Máster en Basket Data Analytics & Sports Management (2025–2026)
