@@ -33,8 +33,8 @@
 • Esquemas de una red neuronal genérica y de la red neuronal entrenada (generadas con el paquete TikZ de \LaTeX).
 
 <p align="center">
-  <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_1_Generic.jpg" width="400"/>
-  <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_2_Own.jpg" width="400"/>
+  <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_1_Generic.jpg" width="500"/>
+  <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_2_Own.jpg" width="500"/>
 </p>
 
 • DSS - 1 - Fichajes (esquema generado con \LaTeX)
