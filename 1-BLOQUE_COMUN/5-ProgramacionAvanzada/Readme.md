@@ -6,7 +6,7 @@
 
 ---
 
-### TFA: CALCULADORA DE MÉTRICAS - VERSIÓN MEJORADA
+### TFA: Calculadora de métricas. Versión mejorada.
 
 • Programación Orientada a Objetos (POO).
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Contenidos incluidos en el repositorio: ejemplos de ejecución de la calculadora
+### Contenidos incluidos en el repositorio: ejemplos de ejecución de la calculadora.
 
 Se construyeron equipos y partidos ficticios para probar el código. Se incluyen doce ejemplos:
 
@@ -57,10 +57,6 @@ Se construyeron equipos y partidos ficticios para probar el código. Se incluyen
 • Ej_11: Ranking jugadores - Estadística convencional: puntos.
 
 • Ej_12: Ranking jugadores - Estadística avanzada: posesiones consumidas.
-
-
-
-
 
 
 
