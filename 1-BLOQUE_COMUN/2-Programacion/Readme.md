@@ -6,7 +6,7 @@
 
 ---
 
-### TFA: Calculadora de métricas
+### TFA: Calculadora de métricas.
 
 Se construyó una calculadora que permite registrar las estadísticas de un equipo. 
 La calculadora va escalando en complejidad, permitiendo incluir datos de un único jugador en un partido, 
@@ -31,7 +31,7 @@ Se incluyeron funciones variadas, para introducir dorsales de jugadores válidos
 
 ---
 
-### Contenidos incluidos en el repositorio: ejemplos de ejecución de la calculadora
+### Contenidos incluidos en el repositorio: ejemplos de ejecución de la calculadora.
 
 Se construyeron equipos y partidos ficticios para probar el código. Se incluyen tres ejemplos:
 
