@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="1-BLOQUE_COMUN/MBDA_PGV_GitHub_Header_2.jpg" width="8000"/>
-</p>
-
 # MBDA: Máster en Basket Data Analytics & Sports Management (2025–2026)
 
 ¡Hola!
@@ -12,6 +8,10 @@ Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Anál
 ---
 
 ##  Sobre el Máster
+
+<p align="center">
+  <img src="1-BLOQUE_COMUN/MBDA_PGV_GitHub_Header_2.jpg" width="8000"/>
+</p>
 
 Esta titulación se fundamenta en el acuerdo académico entre:
 
