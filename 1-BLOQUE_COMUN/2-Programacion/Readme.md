@@ -2,7 +2,9 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura:  "2. Programación"
+## ASIGNATURA:  "2. Programación"
+
+---
 
 ### TFA: CALCULADORA DE MÉTRICAS
 
@@ -13,6 +15,26 @@ de todo el equipo en un partido, y de todo el equipo en una temporada.
 A partir de estos datos, se reconstruye la estadística convencional (**boxscore**) y se realizan cálculos
 de estadística avanzada, tanto a nivel individual como de equipo.
 
+Se incluyeron funciones variadas, para introducir dorsales de jugadores válidos, fechas de partidos coherentes, validación de identidad de jugadores, etc.
+
+---
+
+<p align="center">
+  <img src="MBDA_TFA_Programacion_PGV-Ej_3_RankingGamesPlayed.jpg" width="600"/>
+</p>
+
+---
+
 ### Contenidos incluidos en la entrega:
 
 • Notebook con la calculadora (.ipynb).
+
+---
+
+### Contenidos incluidos en el repositorio: Ejemplos de ejecucuión de la calculadora
+
+Se construyó un ejemplo ficticio para probar el código. Se incluyen tres ejemplos:
+
+• Partido -> Cálculos de estadística avanzada.
+• Temporada -> Boxscore acumulado de todos los partidos de la temporada. 
+• Temporada -> Ranking de jugadores por partidos jugados.
