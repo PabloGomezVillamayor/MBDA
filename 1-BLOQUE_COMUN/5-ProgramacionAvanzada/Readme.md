@@ -32,7 +32,39 @@
 
 ### Contenidos incluidos en el repositorio: ejemplos de ejecucuión de la calculadora
 
-Se construyeron equipos y partidos ficticios para probar el código. Se incluyen tres ejemplos:
+Se construyeron equipos y partidos ficticios para probar el código. Se incluyen doce ejemplos:
 
-• Notebook con la calculadora (.ipynb).
+• Ej_1: Jerarquía de las clases.
+
+• Ej_2: Boxscore de un partido.
+
+• Ej_3: Clase 'PlayerGameStats'.
+
+• Ej_4: Clase 'MyTeamGameStats'.
+
+• Ej_5: Clase 'OpponentGameStats'.
+
+• Ej_6: Información de un partido.
+
+• Ej_7: Estadística avanzada - Jugadores.
+
+• Ej_8: Estadística avanzada - Equipos.
+
+• Ej_9: Temporada - Estadísticas totales.
+
+• Ej_10: Temporada - Estadísticas avanzadas.
+
+• Ej_11: Ranking jugadores - Estadística convencional: puntos.
+
+• Ej_12: Ranking jugadores - Estadística avanzada: posesiones consumidas.
+
+
+
+
+
+
+
+
+
+
 
