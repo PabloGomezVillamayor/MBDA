@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="MBDA_TFA_MLII_PGV-0_FrontPage.jpg.jpg" width="600"/>
+  <img src="MBDA_TFA_MLII_PGV-0_FrontPage.jpg" width="600"/>
 </p>
 
 ---
