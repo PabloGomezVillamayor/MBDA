@@ -11,7 +11,7 @@
 ### TFA: LeBron James. Análisis de su evolución como anotador: 2003 vs 2013 vs 2023
 
 <p align="center">
-  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg" width="600"/>
+  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg" width="800"/>
 </p>
 
 A partir de datos de LeBron James de 20 temporadas (desde 2003-2004 hasta 2023-2024), se construyeron diversos paneles que permiten analizar su evolución como anotador,
