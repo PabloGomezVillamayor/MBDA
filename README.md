@@ -10,7 +10,7 @@ Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Anál
 ##  Sobre el Máster
 
 <p align="center">
-  <img src="1-BLOQUE_COMUN/MBDA_PGV_GitHub_Header_2.jpg" width="8000"/>
+  <img src="4-PRACTICAS/images/MBDA_PGV_GitHub_Header.jpg" width="8000"/>
 </p>
 
 Esta titulación se fundamenta en el acuerdo académico entre:
@@ -61,3 +61,7 @@ Sin más aclaraciones, te invito a que te des una vuelta por el repositorio.
 Un abrazo <3.
 
 **Pablo Gómez**.
+
+<p align="center">
+  <img src="4-PRACTICAS/images/PGV_Banner.png" width="8000"/>
+</p>
