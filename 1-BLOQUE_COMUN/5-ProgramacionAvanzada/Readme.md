@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="MBDA_TFA_ProgramacionAvanzada_PGV-0_CalculatorWorkflow.jpg" width="500"/>
+  <img src="MBDA_TFA_ProgramacionAvanzada_PGV-0_CalculatorWorkflow.jpg" width="700"/>
 </p>
 
 ---
