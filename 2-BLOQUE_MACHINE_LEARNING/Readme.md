@@ -7,9 +7,15 @@
 ## Asignaturas impartidas:
 
 1. Machine Learning I.
-2. Machine Learning II-
+2. Machine Learning II.
 
 ---
+
+
+<p align="center">
+  <img src="1-Machine_Learning_I/MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="2000"/>
+</p>
+
 
 ## Herramientas Principales: Librerías de Python para aprendizaje automático
 
