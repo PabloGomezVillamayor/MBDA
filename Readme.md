@@ -27,6 +27,8 @@ Voy a utilizar este repositorio de **GitHub** como almacén de algunos archivos 
 
 Aquí iré subiendo algunos archivos e ilustraciones de elaboración propia, utilizados en los **Trabajos de Final de Asignatura (TFA)** realizados, con el objetivo de que tanto los profesores como cualquier persona interesada puedan acceder fácilmente a este contenido.
 
+###  Estructura de directorios
+
 El repositorio se organiza en diversas carpetas. Existen cuatro directorios principales, uno por cada bloque principal del máster:
 
 1-BLOQUE_COMÚN.
