@@ -33,8 +33,10 @@ Se incluyeron funciones variadas, para introducir dorsales de jugadores válidos
 
 ### Contenidos incluidos en el repositorio: Ejemplos de ejecucuión de la calculadora
 
-Se construyó un ejemplo ficticio para probar el código. Se incluyen tres ejemplos:
+Se construyeron equipos y partidos ficticios para probar el código. Se incluyen tres ejemplos:
 
-• Partido -> Cálculos de estadística avanzada.
-• Temporada -> Boxscore acumulado de todos los partidos de la temporada. 
-• Temporada -> Ranking de jugadores por partidos jugados.
+• Ej_1: Partido -> Cálculos de estadística avanzada.
+
+• Ej_2: Temporada -> Boxscore acumulado de todos los partidos de la temporada. 
+
+• Ej_3: Temporada -> Ranking de jugadores por partidos jugados.
