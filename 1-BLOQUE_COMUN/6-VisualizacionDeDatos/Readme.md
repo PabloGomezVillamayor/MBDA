@@ -8,7 +8,7 @@
 
 ---
 
-### TFA: LeBron James. Análisis de su evolución como anotador: 2003 vs 2013 vs 2023
+### TFA: LeBron James. Análisis de su evolución como anotador: 2003 vs 2013 vs 2023.
 
 <p align="center">
   <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg" width="800"/>
@@ -39,7 +39,7 @@ adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de tod
 
 ---
 
-### Contenidos incluidos en el repositorio: dashboards completos
+### Contenidos incluidos en el repositorio: dashboards completos.
 
 ---
 
