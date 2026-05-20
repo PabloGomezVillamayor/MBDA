@@ -32,7 +32,7 @@
 
 ---
 
-### Contenidos incluidos en el repositorio: Dashboards variados
+### Contenidos incluidos en el repositorio: dashboards variados
 
 • Evolución del marcador (2D line graph).
 
