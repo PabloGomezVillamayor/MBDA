@@ -19,3 +19,9 @@
 ### Contenidos incluidos en la entrega:
 
 • Documento de texto (.pdf generado con \LaTeX).
+
+---
+
+### Contenidos incluidos en el repositorio:
+
+• Representación gráfica de una función (generada con el paquete TikZ de \LaTeX).
