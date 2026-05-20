@@ -2,18 +2,37 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura:  "5. Programación Avanzada"
+## ASIGNATURA:  "5. Programación Avanzada"
+
+---
 
 ### TFA: CALCULADORA DE MÉTRICAS - VERSIÓN MEJORADA
 
 • Programación Orientada a Objetos (POO).
 
-• Re-factorización del código de la calculadora anterior, incluyendo nuevos conceptos: Control de excepciones, logging,  iteradores zip(), list comprehesions, etc.
+• Re-factorización del código de la calculadora anterior, incluyendo nuevos conceptos: Control de excepciones, logging, iteradores zip(), list comprehesions, etc.
 
 • Nueva arquitectura: Estructura jerárquica. Clases 'Player', 'PlayerGameStats', 'TeamGameStats', 'MyTeamGame', 'OpponentTeamGame', 'Game' y 'Season'.
 
 • Ejecución final: Estructura jerárquica. Clase 'Calculator'.
 
+---
+
+<p align="center">
+  <img src="MBDA_TFA_ProgramacionAvanzada_PGV-0_CalculatorWorkflow.jpg" width="320"/>
+</p>
+
+---
+
 ### Contenidos incluidos en la entrega:
 
 • Notebook con la calculadora (.ipynb).
+
+---
+
+### Contenidos incluidos en el repositorio: ejemplos de ejecucuión de la calculadora
+
+Se construyeron equipos y partidos ficticios para probar el código. Se incluyen tres ejemplos:
+
+• Notebook con la calculadora (.ipynb).
+
