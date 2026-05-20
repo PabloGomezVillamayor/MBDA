@@ -6,7 +6,7 @@
 
 ---
 
-### TFA: Resolución de ejercicios diversos (Estadística, Probabilidad, Álgebra Lineal & Análisis Matemático)
+### TFA: Resolución de ejercicios diversos: estadística, probabilidad, álgebra Lineal & análisis matemático
 
 ---
 
