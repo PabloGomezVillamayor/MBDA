@@ -14,8 +14,8 @@
 
 ### Herramientas Principales:
 
-• **PROGRAMACIÓN**: **Python**. Librerías principales: **Pandas**, **NumPy**.
+• **Programación**: **Python**. Librerías principales: **Pandas**, **NumPy**.
 
-• **BASES DE DATOS**: **SQL**.
+• **Bases de datos**: **SQL**.
 
-• **VISUALIZACIÓN DE DATOS**: **Power BI**.
+• **Visualización de datos**: **Power BI**.
