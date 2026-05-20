@@ -30,7 +30,7 @@
 
 ### Contenidos incluidos en el repositorio: dashboards completos.
 
-• Esquemas de una red neuronal genérica y de la red neuronal entrenada (generadas con el paquete TikZ de \LaTeX).
+• Esquemas de una red neuronal genérica y de la red neuronal entrenada (generados con el paquete TikZ de \LaTeX).
 
 <p align="center">
   <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_1_Generic.jpg" width="500"/>
