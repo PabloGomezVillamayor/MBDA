@@ -6,7 +6,7 @@
 
 ---
 
-### TFA: CALCULADORA DE MÉTRICAS
+### TFA: Calculadora de métricas
 
 Se construyó una calculadora que permite registrar las estadísticas de un equipo. 
 La calculadora va escalando en complejidad, permitiendo incluir datos de un único jugador en un partido, 
