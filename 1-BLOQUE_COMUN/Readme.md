@@ -2,7 +2,9 @@
 
 ##  BLOQUE COMÚN
 
-### Asignaturas impartidas:
+---
+
+## Asignaturas impartidas:
 
 1. Conceptos Básicos.
 2. Programación.
@@ -11,8 +13,9 @@
 5. Programación Avanzada.
 6. Visualización de Datos.
 
+---
 
-### Herramientas Principales:
+## Herramientas Principales:
 
 • **Programación**: **Python** -> Librerías principales: **Pandas**, **NumPy**.
 
