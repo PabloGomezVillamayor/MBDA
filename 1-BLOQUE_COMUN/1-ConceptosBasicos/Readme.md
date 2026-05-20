@@ -34,12 +34,12 @@
 
 ### Contenidos incluidos en el repositorio: Dashboards variados
 
-• Evolución del marcador (2D line graph)
+• Evolución del marcador (2D line graph).
 
-• Puntos por jugador (2D bar graph)
+• Puntos por jugador (2D bar graph).
 
-• Ratio de tiros asistidos/no asistidos (Pie chart)
+• Ratio de tiros asistidos/no asistidos (Pie chart).
 
-• Valoración vs Tiempo de juego (Scatter plot)
+• Valoración vs Tiempo de juego (Scatter plot).
 
-• USG% vs OER (Scatter plot. Rendimiento ofensivo)
+• USG% vs OER (Scatter plot. Rendimiento ofensivo).
