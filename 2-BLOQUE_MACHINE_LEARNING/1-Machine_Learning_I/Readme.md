@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="600"/>
+  <img src="MBDA_TFA_MLI_PGV-NeuralNetwork_2_Own.jpg" width="600"/>
 </p>
 
 ---
