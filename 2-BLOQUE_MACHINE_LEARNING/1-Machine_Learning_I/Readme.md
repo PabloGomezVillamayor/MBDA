@@ -2,19 +2,33 @@
 
 ## BLOQUE ESPECÍFICO: ANÁLISIS DE DATOS - ML
 
-### Asignatura: Machine Learning I
+## ASIGNATURA: Machine Learning I
+
+---
+
+### TFA: Predicción y Análisis de Lesiones en NBA:
 
 ---
 
 <p align="center">
-  <img src="images/MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
+  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
 </p>
 
 ---
 
+### Contenidos incluidos en la entrega:
 
-### TFA: Predicción y Análisis de Lesiones en NBA:
+• Notebook con el código completo (.ipynb).
 
+• Código ejecutado (.html).
+
+---
+
+### Contenidos incluidos en el repositorio: esquemas de redes neuronales
+
+• Estructura de una red neuronal genérica & de la red de nuestro modelo (imagenes generadas con el paquete TikZ de \LaTeX).
+
+---
 ---
 
 ### Objetivo: Implementación de modelos de aprendizaje automático.
@@ -33,26 +47,12 @@
 
 ---
 
-### Modelos guardados:
-
-Se construyeron 3 modelos en total: 2 árboles de decisión y 1 red neuronal.
-
-Todos están disponibles en este directorio del repositorio, en la subcarpeta "models".
-
-• Árboles de decisión → `.pkl`.
-
-• Red neuronal → `.keras`.
-
----
-
 ### Herramientas utilizadas:
 
-• Python: Pandas · Scikit-learn · Keras.
-• LaTeX: TikZ (generación de imagenes). Las imágenes están disponibles en la subcarpeta "images".
+• **Python**: Pandas · Scikit-learn · Keras.
 
-Gracias por visitar el repositorio.
+• **LaTeX**: TikZ (paquete para generación de imagenes).
 
-Pablo.
 
 
 
