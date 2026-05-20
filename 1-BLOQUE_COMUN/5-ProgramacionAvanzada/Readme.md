@@ -30,7 +30,7 @@
 
 ---
 
-### Contenidos incluidos en el repositorio: ejemplos de ejecucuión de la calculadora
+### Contenidos incluidos en el repositorio: ejemplos de ejecución de la calculadora
 
 Se construyeron equipos y partidos ficticios para probar el código. Se incluyen doce ejemplos:
 
