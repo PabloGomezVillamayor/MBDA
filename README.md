@@ -34,7 +34,7 @@ El repositorio se organiza en diversas carpetas. Existen cuatro directorios prin
 4-PRÁCTICAS
 
 Las asignaturas impartidas en el máster se engloban en los dos primeros bloques. Dentro de estos, existe una carpeta por cada asignatura. 
-Dichas carpetas están numeradas según el orden cronológico de impartición dentro del máster. 
+Dichas carpetas están numeradas según el orden cronológico de impartición de las asignaturas dentro del máster. 
 
 Los bloques tercero y cuarto aún están por completar. Estos corresponden al **Trabajo Final de Máster (TFM)** y a las prácticas, respectivamente.
 Cuando finalice el curso académico, se actualizarán convenientemente.
