@@ -14,6 +14,14 @@
 
 • Creación de gráficos (dashboards) para presentar información relevante.
 
+---
+
+<p align="center">
+  <img src="MBDA_TFA_ConceptosBasicos_PGV_0_FrontPage.jpg" width="200"/>
+</p>
+
+---
+
 
 ### Contenidos incluidos en la entrega:
 
@@ -33,6 +41,3 @@
 • Valoración vs Tiempo de juego (Scatter plot)
 
 • USG% vs OER (Scatter plot. Rendimiento ofensivo)
-
-
-![Portada TFA](MBDA_TFA_ConceptosBasicos_PGV_0_FrontPage.jpg)
