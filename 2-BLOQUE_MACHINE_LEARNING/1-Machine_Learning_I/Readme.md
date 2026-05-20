@@ -23,6 +23,11 @@
 • Estructura de una red neuronal genérica & de la red de nuestro modelo (imagenes generadas con el paquete TikZ de \LaTeX).
 
 ---
+
+<p align="center">
+  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="600"/>
+</p>
+
 ---
 
 ### Objetivo: Implementación de modelos de aprendizaje automático.
@@ -46,16 +51,6 @@
 • **Python**: Pandas · Scikit-learn · Keras.
 
 • **LaTeX**: TikZ (paquete para generación de imagenes).
-
----
-
-<p align="center">
-  <img src="MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="2000"/>
-</p>
-
-<p align="center">
-  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
-</p>
 
 
 
