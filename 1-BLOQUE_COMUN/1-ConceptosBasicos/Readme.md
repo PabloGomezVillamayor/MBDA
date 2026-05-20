@@ -33,3 +33,6 @@
 • Valoración vs Tiempo de juego (Scatter plot)
 
 • USG% vs OER (Scatter plot. Rendimiento ofensivo)
+
+
+![Portada TFA](MBDA_TFA_ConceptosBasicos_PGV_0_FrontPage.jpg)
