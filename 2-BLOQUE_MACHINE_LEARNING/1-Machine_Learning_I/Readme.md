@@ -38,7 +38,7 @@
   - KMEANS.
   - Clustering jerárquico.
 
-#### 🔹 Tarea 2: Predicción de lesiones -> Predecir el riesgo de lesión en base al rendimiento y carga de juego.
+#### 🔹 Tarea 2: Modelo predictivo de lesiones -> Predecir el riesgo de lesión en base al rendimiento y carga de juego.
 
 • Modelos utilizados:
   - Árboles de decisión (con sklearn) -> Mejora de desbalanceo de clases con SMOTE.
