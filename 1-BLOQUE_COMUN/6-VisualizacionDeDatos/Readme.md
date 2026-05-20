@@ -47,6 +47,5 @@ adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de tod
 <p align="center">
   <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg.jpg" width="600"/>
   <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_1.jpg.jpg" width="600"/>
-
 </p>
 
