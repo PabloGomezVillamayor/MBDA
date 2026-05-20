@@ -2,8 +2,10 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura: "4. Bases de Datos"
+## ASIGNATURA: "4. Bases de Datos"
 
-### TFA: 
+---
 
-• Ejercicio rutinario. No aporta valor. No se incluye en el repositorio.
+### TFA: Ejercicio rutinario.
+
+• No aporta valor. No se incluye en el repositorio.
