@@ -14,7 +14,7 @@
 
 ### Herramientas Principales:
 
-• **Programación**: **Python**. Librerías principales: **Pandas**, **NumPy**.
+• **Programación**: **Python** -> Librerías principales: **Pandas**, **NumPy**.
 
 • **Bases de datos**: **SQL**.
 
