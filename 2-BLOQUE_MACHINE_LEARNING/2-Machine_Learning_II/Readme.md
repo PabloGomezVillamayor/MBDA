@@ -6,7 +6,7 @@
 
 ---
 
-### TFA: Ejercicios variados sobre ML
+### TFA: Ejercicios variados sobre ML.
 
 #### 🔹 Ejercicio 1: Preguntas de respuesta abierta sobre ML.
 #### 🔹 Ejercicio 2: Modelo de predicción de victorias a partir de Boxscore.
@@ -28,7 +28,7 @@
 
 ---
 
-### Contenidos incluidos en el repositorio: dashboards completos
+### Contenidos incluidos en el repositorio: dashboards completos.
 
 • Esquemas de una red neuronal genérica y de la red neuronal entrenada (generadas con el paquete TikZ de \LaTeX).
 
@@ -58,4 +58,4 @@
 
 • **Python**: Pandas · Scikit-learn · Keras · SHAP.
 
-• **LaTeX**: TikZ (paquete para generación de imagenes).
+• **LaTeX**: TikZ (paquete para generación de imágenes).
