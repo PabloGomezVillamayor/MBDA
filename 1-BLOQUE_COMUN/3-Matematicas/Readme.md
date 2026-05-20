@@ -2,9 +2,19 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura: "3. Matemáticas"
+### ASIGNATURA: "3. Matemáticas"
+
+---
 
 ### TFA: Resolución de ejercicios diversos (Estadística, Probabilidad, Álgebra Lineal & Análisis Matemático)
+
+---
+
+<p align="center">
+  <img src="MBDA_TFA_Matematicas_PGV-0_FrontPage.jpg" width="600"/>
+</p>
+
+---
 
 ### Contenidos incluidos en la entrega:
 
