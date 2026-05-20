@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="1-Machine_Learning_I/MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="600"/>
+  <img src="1-Machine_Learning_I/MBDA_TFA_MLI_PGV-NeuralNetwork_1_Generic.jpg" width="600"/>
 </p>
 
 ---
