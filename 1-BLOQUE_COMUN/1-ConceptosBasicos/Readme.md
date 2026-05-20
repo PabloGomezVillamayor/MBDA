@@ -24,13 +24,13 @@
 
 ---
 
-
 ### Contenidos incluidos en la entrega:
 
 • Análisis en Excel (.xlsx).
 
 • Documento de texto: Informe-resumen (.pdf generado con \LaTeX).
 
+---
 
 ### Contenidos incluidos en el repositorio: Dashboards variados
 
