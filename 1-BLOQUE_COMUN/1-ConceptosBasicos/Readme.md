@@ -6,8 +6,7 @@
 
 ---
 
-### TFA: Análisis de un cuarto de un partido de Liga Endesa 
-### (Baxi Manresa - Hiopos Lleida. Jornada 7. Temporada 2025-2026)
+### TFA: Análisis de un cuarto de un partido de Liga Endesa: Baxi Manresa - Hiopos Lleida. J7. Temporada 2025-2026
 
 
 • Construcción de un **Play By Play** manual, construido a partir del video del partido.
