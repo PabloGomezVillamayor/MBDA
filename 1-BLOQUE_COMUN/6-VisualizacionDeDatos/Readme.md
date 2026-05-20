@@ -10,10 +10,6 @@
 
 ### TFA: LeBron James. Análisis de su evolución como anotador: 2003 vs 2013 vs 2023.
 
-<p align="center">
-  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg" width="800"/>
-</p>
-
 A partir de datos de LeBron James de 20 temporadas (desde 2003-2004 hasta 2023-2024), se construyeron diversos paneles que permiten analizar su evolución como anotador,
 adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de todos los tiros intentados por LeBron en esas temporadas, así como datos de estadística convencional. Se construyeron un total de cinco paneles de visualización:
 
@@ -22,6 +18,11 @@ adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de tod
 3. Porcentajes de tiro avanzados.
 4. Mapa de Tiro general (**Shot Chart**).
 5. Mapa de Tiro comparativo.
+
+
+<p align="center">
+  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg" width="800"/>
+</p>
 
 ---
 
