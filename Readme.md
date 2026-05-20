@@ -15,9 +15,9 @@ Actualmente, durante el curso 2025–2026, soy estudiante del **Máster en Anál
 
 Esta titulación se fundamenta en el acuerdo académico entre:
 
-- **Universidad del Atlántico Medio (UNAM)**
-- **SBL Education**
-- **Movistar Estudiantes**
+- **Universidad del Atlántico Medio (UNAM)**.
+- **SBL Education**.
+- **Movistar Estudiantes**.
 
 ---
 
