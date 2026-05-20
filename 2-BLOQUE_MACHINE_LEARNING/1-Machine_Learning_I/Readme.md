@@ -20,7 +20,7 @@
 
 ### Contenidos incluidos en el repositorio: esquemas de redes neuronales.
 
-• Estructura de una red neuronal genérica & de la red de nuestro modelo (imagenes generadas con el paquete TikZ de \LaTeX).
+• Estructura de una red neuronal genérica & de la red de nuestro modelo (imágenes generadas con el paquete TikZ de \LaTeX).
 
 ---
 
@@ -50,4 +50,4 @@
 
 • **Python**: Pandas · Scikit-learn · Keras.
 
-• **LaTeX**: TikZ (paquete para generación de imagenes).
+• **LaTeX**: TikZ (paquete para generación de imágenes).
