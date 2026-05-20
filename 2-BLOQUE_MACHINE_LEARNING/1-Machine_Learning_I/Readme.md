@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
-</p>
-
----
-
 ### Contenidos incluidos en la entrega:
 
 • Notebook con el código completo (.ipynb).
@@ -33,13 +27,13 @@
 
 ### Objetivo: Implementación de modelos de aprendizaje automático.
 
-### 🔹 Tarea 1: Clustering -> Agrupar lesiones similares.
+#### 🔹 Tarea 1: Clustering -> Agrupar lesiones similares.
 
 • Modelos utilizados:
   - KMEANS.
   - Clustering jerárquico.
 
-### 🔹 Tarea 2: Predicción de lesiones -> Predecir el riesgo de lesión en base al rendimiento y carga de juego.
+#### 🔹 Tarea 2: Predicción de lesiones -> Predecir el riesgo de lesión en base al rendimiento y carga de juego.
 
 • Modelos utilizados:
   - Árboles de decisión (con sklearn) -> Mejora de desbalanceo de clases con SMOTE.
@@ -52,6 +46,11 @@
 • **Python**: Pandas · Scikit-learn · Keras.
 
 • **LaTeX**: TikZ (paquete para generación de imagenes).
+
+<p align="center">
+  <img src="MBDA_TFA_MLI_NeuralNetworkGeneric.jpg" width="2000"/>
+  <img src="MBDA_TFA_MLI_NeuralNetworkOwn.jpg" width="2000"/>
+</p>
 
 
 
