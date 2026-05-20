@@ -40,13 +40,13 @@
   <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_2_Own.jpg" width="500"/>
 </p>
 
-• DSS - 1 - Fichajes (esquema generado con \LaTeX)
+• DSS - 1 - Fichajes (esquema generado con \LaTeX).
 
 <p align="center">
   <img src="MBDA_TFA_MLII_PGV-DSS_1_Fichajes.jpg" width="400"/>
 </p>
 
-• DSS - 2 - Prevención de lesiones (esquema generado con \LaTeX)
+• DSS - 2 - Prevención de lesiones (esquema generado con \LaTeX).
 
 <p align="center">
   <img src="MBDA_TFA_MLII_PGV-DSS_2_Lesiones.jpg" width="400"/>
