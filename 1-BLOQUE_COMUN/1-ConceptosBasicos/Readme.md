@@ -43,3 +43,16 @@
 • Valoración vs Tiempo de juego (Scatter plot).
 
 • USG% vs OER (Scatter plot. Rendimiento ofensivo).
+
+---
+
+<p align="center">
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard1.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard2.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard3.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard4.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard5.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard6.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard7.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard8.jpg" width="600"/>
+</p>
