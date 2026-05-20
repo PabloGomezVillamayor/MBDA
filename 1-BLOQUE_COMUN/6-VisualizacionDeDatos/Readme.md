@@ -2,9 +2,11 @@
 
 ##  BLOQUE COMÚN
 
-### Asignatura:  "6. Visualización de Datos"
+## ASIGNATURA:  "6. Visualización de Datos"
 
 • Power BI: Limpieza y transformación de datos, construcción de medidas DAX, construcción de paneles de visualización (**dashboards**).
+
+---
 
 ### TFA: LeBron James. Análisis de su evolución como anotador: 2003 vs 2013 vs 2023
 
@@ -17,15 +19,34 @@ adaptación a cambios físicos y al cambio del juego. Se utilizaron datos de tod
 4. Mapa de Tiro general (**Shot Chart**).
 5. Mapa de Tiro comparativo.
 
+---
+
+<p align="center">
+  <img src="MBDA_TFA_Visualizacion_PGV-0_FrontPage.jpg" width="600"/>
+</p>
+
+---
 
 ### Contenidos incluidos en la entrega:
 
 • Análisis en Power BI (.pbix).
 
-• Imágenes con las visualizaciónes (.jpg).
+• Informe de resultados obtenidos (.pdf generado con \LaTeX).
 
+---
+
+### Contenidos incluidos en el repositorio: dashboards completos
+
+---
 
 ### Comentarios adicionales:
 
 • Dataset disponible gratuitamente en Kaggle: https://www.kaggle.com/datasets/eduvadillo/lebron-james-career-shots
+
+
+<p align="center">
+  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_5.jpg.jpg" width="600"/>
+  <img src="MBDA_TFA_Visualizacion_PGV-LBJ_Dashboard_1.jpg.jpg" width="600"/>
+
+</p>
 
