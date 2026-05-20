@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="MBDA_TFA_ConceptosBasicos_PGV_0_FrontPage.jpg" width="600"/>
+  <img src="MBDA_TFA_ConceptosBasicos_PGV-0_FrontPage.jpg" width="600"/>
 </p>
 
 ---
