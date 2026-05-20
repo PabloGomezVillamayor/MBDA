@@ -34,6 +34,9 @@
 
 <p align="center">
   <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_1_Generic.jpg" width="500"/>
+</p>
+
+<p align="center">
   <img src="MBDA_TFA_MLII_PGV-NeuralNetwork_2_Own.jpg" width="500"/>
 </p>
 
