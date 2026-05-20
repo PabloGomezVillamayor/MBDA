@@ -48,6 +48,9 @@
 
 <p align="center">
   <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard1.jpg" width="400"/>
+</p>
+
+<p align="center">
   <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard2.jpg" width="400"/>
   <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard3.jpg" width="400"/>
   <img src="MBDA_TFA_ConceptosBasicos_PGV-Dashboard4.jpg" width="400"/>
