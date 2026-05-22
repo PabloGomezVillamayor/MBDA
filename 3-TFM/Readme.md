@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="MBDA_TFM_PGV-0_FrontPage.jpg" width="600"/>
+  <img src="images/MBDA_TFM_PGV-0_FrontPage.jpg" width="600"/>
 </p>
 
 ---
