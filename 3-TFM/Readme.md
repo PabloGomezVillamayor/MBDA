@@ -5,6 +5,15 @@
 ## Desarrollo de una herramienta de análisis estadístico avanzado en baloncesto para un equipo de Liga ACB
 
 ---
+---
+
+## Acceso a la aplicación
+
+### Plataforma Railway: 🔗 https://tfmlltapppablogv-production.up.railway.app/
+
+### Plataforma Render:  🔗 https://tfm-llt-app-pablogv.onrender.com/
+
+---
 
 ## Vista previa de la herramienta
 
@@ -13,8 +22,9 @@
 </p>
 
 ---
+---
 
-## Descripción del proyecto
+### Descripción del proyecto
 
 El presente Trabajo Fin de Máster desarrolla una herramienta web de análisis estadístico aplicada al baloncesto profesional, diseñada específicamente para el contexto competitivo de un equipo de Liga Endesa ACB. En particular, hemos escogido a *La Laguna Tenerife* (LLT).
 
@@ -24,17 +34,7 @@ El objetivo principal del proyecto consiste en facilitar la interpretación y ex
 
 ---
 
-## Acceso a la aplicación
-
-### Plataforma Railway
-🔗 https://tfmlltapppablogv-production.up.railway.app/
-
-### Plataforma Render
-🔗 https://tfm-llt-app-pablogv.onrender.com/
-
----
-
-## Funcionalidades principales
+### Funcionalidades principales
 
 La herramienta incluye:
 
@@ -48,7 +48,7 @@ La herramienta incluye:
 
 ---
 
-## Aplicación práctica en entorno profesional
+### Aplicación práctica en entorno profesional
 
 La plataforma ha sido concebida como una herramienta de apoyo para:
 
@@ -59,6 +59,7 @@ La plataforma ha sido concebida como una herramienta de apoyo para:
 
 La información presentada permite estructurar procesos de análisis posteriores al partido y preparación estratégica previa, facilitando la generación de informes resumidos y adaptados a las necesidades del cuerpo técnico y de los jugadores.
 
+---
 ---
 
 ## Tecnologías utilizadas
@@ -74,6 +75,7 @@ La información presentada permite estructurar procesos de análisis posteriores
 - **NumPy**
 
 ---
+---
 
 ## Contenidos incluidos en la entrega
 
@@ -83,11 +85,9 @@ La información presentada permite estructurar procesos de análisis posteriores
 
 ---
 
-### Contenidos incluidos en el repositorio: todas las imágenes que aparecen en el texto del TFM.
+## Contenidos incluidos en el repositorio: todas las imágenes que aparecen en el texto del TFM.
 
-- Aplicación web interactiva.
-- Documento final del TFM en formato PDF.
-
+---
 ---
 
 ## Portada del documento
