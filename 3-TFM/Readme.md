@@ -8,7 +8,7 @@
 ## Vista previa de la herramienta
 
 <p align="center">
-  <img src="images/MBDA_TFM_PGV-0_AppPreview.jpg" width="1000"/>
+  <img src="images/MBDA_TFM_PGV-0_AppPreview.jpg" width="975"/>
 </p>
 
 ---
