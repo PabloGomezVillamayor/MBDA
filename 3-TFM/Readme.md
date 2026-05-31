@@ -1,10 +1,16 @@
 # MBDA: Máster en Basketb Data Analytics & Sports Management (2025–2026)
 
-## Trabajo Fin de Máster (TFM)
-
-## Desarrollo de una herramienta de análisis estadístico avanzado en baloncesto para un equipo de Liga ACB
+## TFM: Desarrollo de una herramienta de análisis estadístico avanzado en baloncesto para un equipo de Liga ACB
 
 ---
+---
+
+## Vista previa de la herramienta
+
+<p align="center">
+  <img src="images/MBDA_TFM_PGV-0_AppPreview.jpg" width="950"/>
+</p>
+
 ---
 
 ## Acceso a la aplicación
@@ -14,12 +20,6 @@
 ### Plataforma Render:  🔗 https://tfm-llt-app-pablogv.onrender.com/
 
 ---
-
-## Vista previa de la herramienta
-
-<p align="center">
-  <img src="images/MBDA_TFM_PGV-0_AppPreview.jpg" width="950"/>
-</p>
 
 ---
 ---
