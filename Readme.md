@@ -65,5 +65,5 @@ Un abrazo <3.
 **Pablo Gómez**.
 
 <p align="center">
-  <img src="4-PRACTICAS/images/PGV_Banner.png" width="2000"/>
+  <img src="4-PRACTICAS/images/PGV_Banner_2026.png" width="2000"/>
 </p>
